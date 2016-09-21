@@ -1,0 +1,3 @@
+[submodule "Rent-Split-Calculator"]
+	path = Rent-Split-Calculator
+	url = https://github.com/BlueHuskyStudios/Rent-Split-Calculator.git
