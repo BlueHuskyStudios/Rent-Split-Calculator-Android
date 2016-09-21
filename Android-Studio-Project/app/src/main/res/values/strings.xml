@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Rent Split Calculator</string>
+    <string name="app_store_name">Rent Split Calculator</string>
+    <string name="app_runtime_name">Rent Split</string>
     <string name="action_settings">Settings</string>
 </resources>
